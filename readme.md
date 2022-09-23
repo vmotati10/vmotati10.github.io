@@ -9,3 +9,4 @@
 
 # My new santa claus! (POST 2)
 ![my new santa claus!](https://raw.githubusercontent.com/vmotati10/vmotati10.github.io/gh-pages/assets/new%20santa%20claus.png "My New Santa!")
+# This santa has a light up head, move the armns and head, and walk!
